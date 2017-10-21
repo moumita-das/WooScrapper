@@ -6,5 +6,5 @@ do
 		sudo bash setup.sh
 		sed -i 's/uninstalled/installed/' .env
 	fi
-	python  flickr.py
+	python3  flickr.py
 done < $INPUT
