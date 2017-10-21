@@ -1,8 +1,8 @@
 # WooScrapper
 
 1) Clone repository by running the following commands in Terminal:
-  > sudo apt-get update
-  > sudo apt-get install git
+  > sudo apt-get update;
+  > sudo apt-get install git;
   > git clone https://github.com/moumita-das/WooScrapper
   
 2) Move to the project directory
