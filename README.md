@@ -13,5 +13,5 @@
   
 4) To run scrapper for flickr:
   > sudo bash flickr_main.sh<br />
-  > {Enter image to be downloaded}<br />
-  > the images get saved in the <flickr_downloads/image_text} directory
+  > //{Enter image to be downloaded}<br />
+  > //the images get saved in the <flickr_downloads/image_text} directory
