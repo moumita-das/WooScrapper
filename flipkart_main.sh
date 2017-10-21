@@ -6,5 +6,5 @@ do
 		sudo bash setup.sh
 		sed -i 's/uninstalled/installed/' .env
 	fi
-	python  flipkart.py
+	python3  flipkart.py
 done < $INPUT
