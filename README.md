@@ -6,12 +6,12 @@
   > git clone https://github.com/moumita-das/WooScrapper
   
 2) Move to the project directory
-  > cd WooScrapper/
-  
+  > cd WooScrapper/<br />
+  > sudo bash setup.sh
 3) To run scrapper for flipkart:
-  > sudo bash flipkart_main.sh
+  > python3 flipkart.py
   
 4) To run scrapper for flickr:
-  > sudo bash flickr_main.sh<br />
+  > python3 flickr.py<br />
   > //{Enter image to be downloaded}<br />
-  > //the images get saved in the <flickr_downloads/image_text} directory
+  > //the images get saved in the <flickr_downloads/image_text> directory
